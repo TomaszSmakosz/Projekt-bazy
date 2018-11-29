@@ -1,0 +1,8 @@
+1.Widoki:
+-dodawanie adresów
+-dodawanie klientów
+-dodawanie pracownikow
+-dodawanie pojazdow
+-dodawanie kolorów
+-dodawanie modelu
+-dodawanie transakcji
